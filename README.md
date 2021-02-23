@@ -27,7 +27,7 @@ http://www.geonames.org/export/web-services.html
 - Avoid multiple search requests before the previous search result is shown
 - Handle all exceptions of API states with proper messages
 
-## How to use the application
+## How to use this application
 
 To find the location address, you have to enter the Latitude and Longitude. Please visit https://www.geonames.org/maps/addresses.html?address=89512#address to find the Latitude and Longitude or see below; I have provided some Latitude and Longitude values for testing.
 
